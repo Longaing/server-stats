@@ -1,27 +1,27 @@
-# URL Roadmap du projet
+# Project Roadmap URL
 
 https://roadmap.sh/projects/server-stats
 
 # Server Stats Script
 
-Un script Bash pour analyser les performances de mon serveur Linux.
+A Bash script to analyze the performance of my Linux server.
 
-## Fonctionnalités
+## Features
 
-- Statistiques CPU
-- Utilisation mémoire
-- Utilisation disque
-- Top processus
-- Informations système
+- CPU statistics
+- Memory usage
+- Disk usage
+- Top processes
+- System information
 
-## Utilisation
+## Usage
 
-```bash
+```
 chmod +x server-stats.sh
 ./server-stats.sh
 ```
 
-## Sortie depuis mon Pc
+## Output from my PC
 
 ```
 dell@dell:~/server-stats$ ./server-stats.sh
